@@ -1,0 +1,13 @@
+# Exact versions used to produce the results in part1_reproduction.ipynb
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost==3.4.1
+matplotlib==3.10.8
+seaborn==0.13.2
+nbformat==5.11.1
+
+# Any Jupyter environment capable of running/executing a .ipynb file works
+# (e.g. JupyterLab, VS Code's notebook support, or the classic Notebook
+# interface); no specific Jupyter meta-package is imported by the code
+# itself, so none is pinned here.
